@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title> MIST</title>
+</head>
+
+<body>
+
+  <iframe width="1525" height="315" src="https://www.youtube.com/embed/W6KQ4-l_oD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <table border="0" bordercolor="pink" width="1500" height="900" cellpadding="5">
+
+        <tr>
+            <th><img src="E:\Nogor solutions\hometask1\MIST_Logo.png" width="200" /></th>
+            <th colspan="3">
+                <h1>Military Institute of Science and Technology (MIST)<h1></th>
+
+      </tr>
+      <tr align="center" >
+        <td>
+          <a href ="https://mist.ac.bd/">home</a>
+          <select name="s1">
+            <option value="1"></option>
+            <option value="2">ABOUT</option>
+            <option value="3">CONTACT</option>
+            <option value="4">CLUB</option>
+        </select>
+      </td>
+
+        <td><select name="s1">
+            <option value="1">ADMISSION</option>
+            <option value="2">REGISTRATION</option>
+            <option value="3">EXAM</option>
+            <option value="4">RESULT</option>
+        </select></td>
+        <td><select name="s1">
+          <option value="1">STUDENT</option>
+            <option value="1">BELAL</option>
+            <option value="2">ABIR</option>
+            <option value="3">NOSHIN</option>
+            <option value="4">NISHIT</option>
+        </select></td>
+        <td><select name="s1">
+            <option value="1">HQ</option>
+            <option value="2">WING</option>
+            <option value="3">HALL</option>
+            <option value="4">REPORT</option>
+        </select></td>
+      </tr>
+
+      <tr align="center">
+
+          <tr>
+             <td align="center">
+             <a href="https://www.facebook.com/belal.shah.792">
+              <img src="E:\photos\pers\72764101_1461916970651441_1368183560380350464_n.jpg" height="200" border="5"  /></a> </td>
+               <td align="center"><img src="E:\Nogor solutions\hometask1\56252852_2469167649769848_654344048571580416_o.jpg" height="200" border="5" title="abir"  /> </td>
+               <td align="center"><img src="E:\Nogor solutions\hometask1\79239251_1032319437119369_3067628572387573760_n.jpg" height="200" border="5" title="noshin"  /> </td>
+                <td align="center"><img src="E:\Nogor solutions\hometask1\78251351_2483988831730342_8542531540465221632_n.jpg" height="200" border="5" title="nishit"/> </td>
+            </tr>
+
+        <td>Name:Belal<br/>
+             ID: 201614102</td>
+        <td>Name:Abir<br/>
+             ID: 201614100</td>
+             <td>Name:Noshin<br/>
+                  ID: 201614119</td>
+             <td>Name:Nishit<br/>
+                  ID: 201614118</td>
+
+      <tr >
+        <th colspan="2"><text name="ta1" rows="10" cols="50"><p><h2> Nogor Solutions Limited</h2>As a Software Company in Bangladesh, Nogor Solutions Limited Provides the best service on-
+Software & ERP Solutions, Website & Web portal development, Mobile Apps, Training & Support Services,
+CCTV, Hardware & Networking, Domain & Hosting Service, Online Digital Marketing(SEO), IOT Services.Nogor solutions ltd, design & develop interactive web applications which focuses on engaging visitors or even encouraging
+ visitor to be more participating in the website. Nogor solutions always try to do Unique Website design & development for you.Nogor Solutions Limited is a leading mobile app development company within Bangladesh. We are generally service provider with customer include SIS Engineering.
+  Nogor Solutions Limited designed significant enterprise program.</text></th>
+        <td colspan="2"><img src="nogor.PNG" height="400" width="700" border="5" /></td>
+
+      </tr>
+
+    <tr>
+
+      <td colspan="2" bgcolor="green"><p><pre><i><b>Contact Us</b>
+Mailing Address: Military Institute of Science & Technology (MIST)  Mirpur Cantonment, Dhaka-1216, Bangladesh
+
+Director Administration:  +88-02-9013166,
+ +88-02-9010049 Ext:3820
+
+Colonel Staff:  +88-02-9011414,  +88-02-9010049 Ext:3804,  +88-02-9011311,  info@mist.ac.bd
+
+Admission Office:  +88-02-8035419,
+ +88-02-9010049 EXT:3842 (Upto 14:30 hrs)
+ +8801769023842,  +8801769024090      </i> <pre>    </td>
+      <td colspan="2" align="right" bgcolor="green"><mark>developed by BELAL<br/>
+      Contact email: <u>belal1142080@gmail.com</u></mark></td>
+
+    </tr>
+
+    </table>
+
+
+  </body>
+
+</html>
